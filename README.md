@@ -2798,3 +2798,5 @@ You can fork this repo and create [pull requests](https://github.com/dotenvx/dot
 
 * [github.com/dotenvx/dotenvx](https://github.com/dotenvx/dotenvx/issues) - bugs and discussions
 * [@dotenvx 𝕏](https://x.com/dotenvx) (DMs are open)
+
+<!-- Auto-update: 2025-10-15T12:06:11.403267 -->
